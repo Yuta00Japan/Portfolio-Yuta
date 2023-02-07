@@ -12,7 +12,7 @@ public class QuantityCheck {
    
 	/**
 	 * 
-	 * @param itemList 商品の情報を複数含んだMap
+	 * @param itemList 商品の情報を複数含んだList
 	 * @param turnovers　引き出し量OR預入量
 	 * @param method　出し入れ
 	 * @throws Exception
