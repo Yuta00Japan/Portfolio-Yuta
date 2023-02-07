@@ -60,7 +60,7 @@ public class RevisionControler extends HttpServlet {
 		HttpSession operation = request.getSession();
 		
 			UserInfoBeans ub = (UserInfoBeans)operation.getAttribute("user");
-			//権限を持っていなければリダイレクトする
+			//権限を持っていなければフォワードする
 			if(ub.getAuthority().contains("d")) {
 				try {
 					//修正したい商品コードを取得
