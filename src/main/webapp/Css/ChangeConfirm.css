@@ -1,0 +1,62 @@
+@charset "UTF-8";
+body{
+	background-image:url("../Image/black.png");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	height:100vh;
+	width:100%;
+}
+
+
+h1{
+	text-align:center;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:20px;
+	color:rgb(255, 255, 255);
+}
+h2,h3,h4{
+	font-size:20px;
+	color:rgb(255, 255, 255);
+}
+#detail{
+	font-size:20px;
+	display:flex;
+}
+
+#itemTable{
+	margin-top:50px;
+	color:rgb(255, 255, 255);
+	width:50%;
+}
+#dealInfo{
+	margin-top:50px;
+	color:rgb(255, 255, 255);
+	width:30%;
+}
+#cash{
+	font-size:25px;
+	margin-top:80px;
+	color:rgb(255, 255, 255);
+	border-style:solid;
+	border-color: rgb(255, 0, 0);
+	border-width: 10px;
+	width:18%;
+}
+
+.checkbox{
+	margin-left:600px;
+	margin-right:300px;
+	margin-top:50px;
+	height:15px;
+	width:calc(100%-300px);
+	font-size:20px;
+	color:rgb(255, 255, 255)
+}
+input[type = "submit"]{
+
+	margin-left:730px;
+	margin-right:300px;
+	margin-top:20px;
+}
