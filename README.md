@@ -13,7 +13,10 @@ WEBアプリケーション名　Inventory_Management_System(在庫管理シス�
 
 ・商品検索機能　　　・売上、仕入、粗利計算機能
 
-・使用している画像について クレジット表記 : 「みんちりえ（ https://min-chi.material.jp/ ）」
+・使用している画像について 
+
+
+クレジット表記 : 「みんちりえ（ https://min-chi.material.jp/ ）」
 
 JavaServletとデータベースを連携させた在庫管理システムです。
 
