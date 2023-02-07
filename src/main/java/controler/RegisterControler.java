@@ -57,7 +57,7 @@ public class RegisterControler extends HttpServlet {
 		HttpSession operation = request.getSession();
 		
 			UserInfoBeans ub = (UserInfoBeans)operation.getAttribute("user");
-			//権限を持っていなければリダイレクトする
+			//権限を持っていなければフォワード
 			if(ub.getAuthority().contains("i")) {
 				try{
 					
