@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+	background-image:url("../Image/交差点.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position: center;
+	height:100vh;
+	width:100%;
+}
+.back{
+	background-color:black;
+}
+
+h1{
+	text-align:center;
+	margin-top:100px;
+	margin-bottom:100px;
+	font-size:30px;
+	color:mediumspringgreen;
+}
+h2{
+	text-align:center;
+	margin-top:50px;
+	font-size:20px;
+	color:mediumspringgreen;
+}
+h3{
+	margin-top:100px;
+	margin-left:600px;
+	margin-right:400px;
+	font-size:20px;
+}
+h4{
+	margin-top:50px;
+	margin-left:730px;
+	margin-right:270px;
+	
+}
+h5{
+	text-align:center;
+	margin-top:50px;
+	color:red;
+	font-size:20px;
+}
