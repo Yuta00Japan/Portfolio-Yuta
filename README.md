@@ -1,4 +1,5 @@
-# Portfolio-Yuta
+# Portfolio
+
 主な使用言語 JAVA　JAVASERVLET　MYSQL　HTML　CSS　JAVASCRIPT
 
 WEBアプリケーション名　Inventory_Management_System(在庫管理システム）
